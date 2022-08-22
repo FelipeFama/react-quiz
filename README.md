@@ -19,5 +19,6 @@ npm run dev
 
 ## :wrench: Technologies used
 
+- Vite
 - React/Typescript
 - Styled-Components
